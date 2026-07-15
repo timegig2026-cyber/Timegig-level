@@ -1,0 +1,6 @@
+{
+  "name": "Six Feature Web App",
+  "description": "An empty web application featuring an elegant top navigation bar with six interactive, minimalist views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
